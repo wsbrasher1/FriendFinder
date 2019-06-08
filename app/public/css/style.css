@@ -1,0 +1,10 @@
+body {
+    font-family: 'Roboto', sans-serif;
+    background: url("../images/unsplash.jpg");
+    background-size: cover;
+}
+
+#surveybox {
+    background-color: lightgray;
+    
+}
