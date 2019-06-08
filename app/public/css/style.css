@@ -1,10 +1,27 @@
 body {
-    font-family: 'Roboto', sans-serif;
+    font-family: 'Libre Baskerville', serif;
     background: url("../images/unsplash.jpg");
     background-size: cover;
 }
 
 #surveybox {
-    background-color: lightgray;
+    background-color: rgba(245, 245, 245, .8);
+    border-radius: 10px;
     
+}
+
+.jumbotron {
+    background-color: rgba(245, 245, 245, .8);
+    border-radius: 10px;
+}
+
+#sfoot {
+    margin-left: 140px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+a {
+    color: lime;
+    font-size: 16px;
 }
